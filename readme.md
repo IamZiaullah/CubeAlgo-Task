@@ -71,6 +71,7 @@ when i ran the algo with test data i got
 all the data matched except for these two
 
 1 1 9 9 1   result i got = 2 : provided test data result = 9.
+
 5 5 5 61 7 1 result = 13 : provided test data result  = 62.
 
 I thought there might be some issue with the program and debugged the logic but when i debugged since the first three numbers are diamentions of the box
